@@ -13,7 +13,7 @@ pip install threaded
 <hr>
 <h2>Linux user guide:</h2>
 
-<h5>git clone https://github.com/imanh2002/DOS-fire.git
+<h5>git clone https://github.com/imanhajibagheri/DOS_Fire.git
 
 cd DOS-fire
 
@@ -21,4 +21,4 @@ sudo python3 DOS-fire.py</h5>
 <hr>
 <h2>Windows user guide:</h2>
 
-<h5>https://github.com/imanh2002/DOS-fire/blob/main/DOS-fire.exe</h5>
+<h5>https://github.com/imanhajibagheri/DOS_Fire/blob/main/DOS_Fire.exe</h5>
